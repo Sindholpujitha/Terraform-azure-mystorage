@@ -1,1 +1,1 @@
-# Terraform-azure-mystorage
+# terraform-azure-mystorage
