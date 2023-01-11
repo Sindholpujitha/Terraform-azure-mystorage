@@ -1,5 +1,5 @@
 variable "resourcegroupname" {
-  description = "The resource group name"
+  description = "The resource group names"
 }
 
 variable "resourcegplocation" {
